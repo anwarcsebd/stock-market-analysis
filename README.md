@@ -16,4 +16,4 @@ All data used in this project from [The Investors Exchange (IEX)](https://iextra
 This data includes stock quotes, fundamentals, actions, and information. In addition, support for IEX market data and statistics is provided.
 
 #### Report of the project
-See the full report and code of this project here- <a href="#" target="_blank">Stock Market Data Analysis</a>
+See the full report and code of this project here- <a href="https://nbviewer.jupyter.org/github/anwarcsebd/stock-market-analysis/blob/master/stock-market-analysis.ipynb" target="_blank">Stock Market Data Analysis</a>
