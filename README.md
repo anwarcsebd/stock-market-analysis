@@ -2,12 +2,14 @@
 Stock Market Analysis and Prediction is the project related to Exploratory data analysis(
 EDA), Data visualization and Predictive analysis using data, provided by The Investors Exchange (IEX). I looked at real-time financial data from the stock market. I have used **Python** programming language to get stock information, visualize different aspects of it, and finally I worked at a few ways of analyzing the risk of a stock, based on its previous performance history. I have also used statistical method called Monte Carlo Method to predict future stock prices.
 
-#### Python(v3.6) Libraries & Tools
-* Numpy v1.14.2
-* Pandas v0.23.4
-* Pandas-datareader v0.6.0
-* Matplotlib v2.10.0
-* Seaborn v0.8.0
+#### Tools Used
+* Python v3.6
+ * Python Libraries
+   * Numpy v1.14.2
+   * Pandas v0.23.4
+   * Pandas-datareader v0.6.0
+   * Matplotlib v2.10.0
+   * Seaborn v0.8.0
 * Jupyter Notebook v5.6.0
 
 #### Data Used
